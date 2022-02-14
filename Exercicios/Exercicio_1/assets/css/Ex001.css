@@ -1,0 +1,33 @@
+body {
+   background-color: #4f4f4f;
+   font: normal 20px Times;
+}
+
+header {
+   color: whitesmoke;
+   text-align: center;
+}
+
+section {
+   background-color: #969696;
+   border-radius: 20px;
+   padding: 15px;
+   width: 500px;
+   margin: auto;
+   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.515);
+   color: whitesmoke;
+   text-align: center;
+}
+
+div {
+   padding: 5px;
+}
+
+footer {
+   color: whitesmoke;
+   text-align: center;
+}
+
+img {
+   width: 300px;
+}
