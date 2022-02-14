@@ -1,0 +1,14 @@
+body{
+    background-color: gray;
+}
+
+#area{
+    text-align: center;
+    font-size: 25px;
+    color: whitesmoke;
+    background: purple;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    cursor: pointer;
+}
