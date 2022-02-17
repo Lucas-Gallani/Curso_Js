@@ -1,0 +1,65 @@
+body {
+   background-color: #4f4f4f;
+   font: normal 20px Times;
+}
+
+header {
+   color: whitesmoke;
+   text-align: center;
+}
+
+section {
+   background-color: rgb(150, 150, 150);
+   border-radius: 20px;
+   padding: 15px;
+   width: 500px;
+   margin: auto;
+   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.515);
+   color: whitesmoke;
+   text-align: center;
+}
+
+footer {
+   color: whitesmoke;
+   text-align: center;
+}
+
+div {
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+
+input[type=number]::-webkit-inner-spin-button { 
+   -webkit-appearance: none;
+   
+}
+input[type=number] { 
+  -moz-appearance: textfield;
+  appearance: textfield;
+
+}
+
+div#res {
+   background-color: rgb(179, 179, 179);
+   border-radius: 20px;
+   padding: 15px;
+   width: 400px;
+   height: 300px;
+   margin: auto;
+   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.515);
+   color: whitesmoke;
+   text-align: center;
+}
+
+p#resultado {
+   background-color: rgb(226, 226, 226);
+   border-radius: 20px;
+   padding: 15px;
+   width: 200px;
+   height: 250px;
+   margin: auto;
+   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.515);
+   color: rgb(5, 5, 5);
+   text-align: center;
+   font: bolder 20px times;
+}

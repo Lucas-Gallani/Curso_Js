@@ -14,7 +14,7 @@ function Verificar() {
       } else if (fsex[0].checked) {
          genero = 'Homem'
       }
-      res.style.textAlign = 'cennter'
+      res.style.textAlign = 'center'
       res.innerHTML = `Detectamos ${genero} com ${idade} anos!`
    }
 }
