@@ -13,5 +13,5 @@ window.alert(`Seja bem vindo ${nome}, espero que tenha gostado deste site`)
 // Mostra ao user qual o tipo primitivo da variável "nome"
 window.alert(typeof(nome))
 
-
+/*  */
 
